@@ -1,0 +1,10 @@
+{
+    "full_name": "WANG Hailin",
+    "email": "hailin.wang@connect.polyu.hk",
+    "project_name": "docs",
+    "github_account": "haiiliin",
+    "short_description": "My template repository for documentation",
+    "_copy_without_render": [
+        "*.github/workflows"
+    ]
+}
