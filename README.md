@@ -1,8 +1,8 @@
-# cookiecutter template for documentation
+# sphinx-template
 
-## How to use this template
+Sphinx template for documentation.
 
-```shell
-pip install cookiecutter
-cookiecutter gh:haiiliin/cookiecutter-docs
-```
+- GitHub: https://github.com/haiiliin/sphinx-template/
+- Documentation: https://sphinx-template.readthedocs.io/en/latest/
+- PyPI: https://pypi.org/project/sphinx-template/
+- Read the Docs: https://readthedocs.org/projects/sphinx-template/

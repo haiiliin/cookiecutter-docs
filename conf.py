@@ -9,7 +9,7 @@
 import os
 import sys
 
-project = '{{cookiecutter.project_name}}'
+project = 'sphinx-template'
 copyright = '2022, WANG Hailin'
 author = 'WANG Hailin'
 
